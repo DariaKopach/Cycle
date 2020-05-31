@@ -44,8 +44,9 @@ public class Main {
         // 2. Check a string as a palindrome
 
         String word = "!(Мед я, : как яд, ; ем)?";
-        // also checked the following palindromes:
-        /*"Ах, Ира – во повариха!"
+
+        /* also checked the following palindromes:
+        "Ах, Ира – во повариха!"
         "Нет ума, дядя? Да, мутен"
         "Я не стар, брат Сеня"
         "Коту скоро сорок суток" */
