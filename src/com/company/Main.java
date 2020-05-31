@@ -103,11 +103,8 @@ public class Main {
             }
             area += rectangle;
         }
-
         System.out.println("The area is " + area);
-
     }
-
 }
 
 
